@@ -48,7 +48,7 @@ More details can be founded at [here](https://www.synopsys.com/Tools/Implementat
 
 First we need to know each layer naming. The meaning of each layer is the following:
 
-Note that this design tool based on p-substrate.
+__Note that this design tool is based on p-substrate__.
 
 - NWELL : N-type Well
 - DIFF : Diffusion Layer
