@@ -21,12 +21,7 @@ In this tutorial, you will learn how to draw custom IC layout and simulate your 
 
 ## Part 5: Creating Layout (continues from lab1)
 
-To design a layout, you need to be familiar with the Lamba-based rules design. This helps you save your time for design cycle and debugging Design Rules Check (DRC) errors. For Synopsys PDK, you can access 90nm technology we are currently using in the following location at `/usr/local/synopsys/pdk/SAED_PDK90nm/documents/SAED_90_Design_Rule.pdf` at `bender.engr.ucr.edu`. To see this document, you can launch a `evince` viewer from our server. Due to the license issue, please do neither download this document in your computer nor re-post this publicly.
-
-```
-evince /usr/local/synopsys/pdk/SAED_PDK90nm/documents/SAED_90_Design_Rule.pdf
-```
-If envince is not installed, you can download this file to your desktop using a file transfer application ( WinSCP, Filezilla) or use the network drive and then use your computer's pdf viewer.
+To design a layout, you need to be familiar with the Lamba-based rules design. This helps you save your time for design cycle and debugging Design Rules Check (DRC) errors. For Synopsys PDK, you can access 90nm technology we are currently using in the following location at `/usr/local/synopsys/pdk/SAED_PDK90nm/documents/SAED_90_Design_Rule.pdf` at `bender.engr.ucr.edu`. You can download this file to your desktop using a file transfer application (WinSCP, Filezilla) or use the network drive and then use your computer's pdf viewer.
 
 ```
 cp /usr/local/synopsys/pdk/SAED_PDK90nm/documents/SAED_90_Design_Rule.pdf SAED_90_Design_Rule.pdf
