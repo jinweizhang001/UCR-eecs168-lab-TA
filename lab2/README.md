@@ -50,7 +50,7 @@ First we need to know each layer naming. The meaning of each layer is the follow
 
 __Note that this design tool is based on p-substrate__.
 
-- NWELL : N-type Well
+- NWELL : N-type Well (N-tub)
 - DIFF : Diffusion Layer
 - PIMP : P-type diffusion (p-diff)
 - NIMP : N-type diffusion (n-diff)
