@@ -303,7 +303,9 @@ Lab 2 is to learn how to design your layout, validate with DRC and LVS. You will
 
 * inverter layout, DRC, LVS
 
-* NAND schematic, testbench, simulation, NAND layout, DRC, LVS
+* NAND schematic, testbench, simulation waveform
+
+* You do not need to demo your NAND layout, DRC, LVS during lab 2 session. But you need to demo your NAND layout, DRC, LVS together with your lab3-1 results at the lab3-1 session (week 4).
 
 
 ### Deliverables for your lab report.
