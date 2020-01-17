@@ -224,7 +224,7 @@ _**Fig. 18. DRC Debug**_
 
 The LVS (Layout versus Schematic) performs LVS comparison to verify that the design layout accurately represents the electronic equivalent of the design schematic. `IC Validator` LVS verifies whether the physical design design matches the schematic by extracting the devices, verifying the connectivity between the devices and comparing the extracted information with the schematic netlist.
 
-Notice that in order to pass LVS, schematic names and layout names must match one to one. Make sure the names for labels and pins are using uppercase letters instead of lowercase letters. Also transistor dimensions for gate width and length in layout and schematic must match. See Fig 19 and 20 for reference.
+__Notice that in order to pass LVS, schematic names and layout names must match one to one__. Make sure the names for labels and pins are using uppercase letters instead of lowercase letters. Also transistor dimensions for gate width and length in layout and schematic must match. See Fig 19 and 20 for reference.
 
 ![fig19](images/fig19.png)
 
@@ -242,7 +242,7 @@ Under main option select the file “rules.lvs.9m_saed90.ev” as `Run Dir` in t
 ```
 Here, we assume library name is `mylibrary` and cell name is `inverter` here.
 
-You need to make sure of all `OpenAccess` for Layout and Schematic/Config
+You need to make sure of all `OpenAccess` for Layout and Schematic/Config. Check `Launch Debugger` and `View Output`.
 
 ![fig21](images/fig21.png)
 
